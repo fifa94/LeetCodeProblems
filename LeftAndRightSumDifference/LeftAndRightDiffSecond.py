@@ -11,16 +11,14 @@ class Solution:
             left_sum = 0
 
             reversed_index = (len(nums) - 1) - index
-
+            print('reversed index: ',reversed_index)
             for sub_index in range(index + 1, len(nums)):
 
                 if index == (len(nums) - 1):
                     break
 
                 right_sum = right_sum + nums[sub_index]
-
-            for sub_index_rev in reversed(range(0, reversed_index)):
-                left_sum = left_sum + nums[sub_index_rev]
+                left_sum = left_sum + nums[((len(nums) - sub_index)-1)]
 
             right_sum_list.append(right_sum)
             left_sum_list.append(left_sum)
@@ -31,6 +29,7 @@ class Solution:
             result_list.append(abs(left_sum_list[index] - right_sum_list[index]))
 
         return result_list
+
 
 
 if __name__ == '__main__':
