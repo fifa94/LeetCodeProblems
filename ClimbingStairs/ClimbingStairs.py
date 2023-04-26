@@ -16,7 +16,7 @@ class Solution:
                     result_cnt = result_cnt + 1
                 if value_1 == 0:
                     result_cnt = result_cnt + 1
-                if value_2 > 0 :
+                if value_2 > 0:
                    temp_list.append(value_2)
                    value_2 = 0
                 else:
@@ -34,4 +34,4 @@ class Solution:
 
 if __name__ == '__main__':
     SolutionObj = Solution()
-    print(SolutionObj.climbStairs(36))
+    print(SolutionObj.climbStairs(45))
