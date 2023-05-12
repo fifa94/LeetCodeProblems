@@ -25,8 +25,8 @@ public:
 
                 for (int x = 0; x < t.length(); x++)
                 {
-                    std::cout << " s " << int(s[x]) ;
-                    std::cout << " i " << i << std::endl;
+                    //std::cout << " s " << int(s[x]) ;
+                    //std::cout << " i " << i << std::endl;
                     //(int(s[x]) == i) ? : ascii_sum_s += 0;
                     if (int(s[x]) == i)
                     {
