@@ -6,13 +6,8 @@ class Solution
 public:
     int strStr(std::string haystack, std::string needle)
     {
-        int found = haystack.find(needle);
-        if (found != std::string::npos)
-        {
-            //std::cout << "First occurrence is " << found << std::endl;
-            return found;
-        }
-        return -1;
+ 
+        return haystack.find(needle);
     }
 };
 int main()
