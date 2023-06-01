@@ -16,7 +16,7 @@ public:
     void push(const T& value);
     void pop();
     T top();
-    ~Stack() { delete[] storage; }
+    ~Stack() { delete[] storage; storage = nullptr; }
 };
 
 template <typename T, int MAX>
