@@ -5,21 +5,22 @@ template <typename T, int MAX = 10>
 class Stack
 {
 private:
-    T *storage = new T[MAX];
+    T *storage;
     void increment_cnt(void) { cnt++; }
     void decrement_cnt(void) { cnt--; }
 
 public:
     inline static int cnt = 0;
-    Stack() {}
-    void push(T value);
+    Stack() { storage = new T[MAX]; }
+    // Predavam data pomoci konstannti reference
+    void push(const T& value);
     void pop();
     T top();
-    ~Stack() { delete[] storage; }
+    ~Stack() { delete[] storage; storage = nullptr; }
 };
 
 template <typename T, int MAX>
-void Stack<T, MAX>::push(T value)
+void Stack<T, MAX>::push(const T& value)
 {
     std::cout << value << std::endl;
 
