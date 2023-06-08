@@ -7,18 +7,15 @@ class Solution
 public:
     int numJewelsInStones(std::string jewels, std::string stones)
     {
-        int count = 0;
+   int count = 0;
 
-        std::for_each(jewels.begin(), jewels.end(), [&] (char& jewels_char)
-        {
-            std::for_each(stones.begin(), stones.end(), [&] (char& stones_char)
-            {
-                if (jewels_char == stones_char)
-                    count += 1;
-            });
+    for (char jewels_char : jewels) {
+        count += std::count_if(stones.begin(), stones.end(), [&](char& stones_char) {
+            return jewels_char == stones_char;
         });
+    }
 
-        return count;
+    return count;
     }
 };
 
