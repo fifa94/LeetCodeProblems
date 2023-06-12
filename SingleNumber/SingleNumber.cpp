@@ -1,14 +1,39 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
-#include <set>
-
+#include <unordered_map>
 
 class Solution
 {
 public:
     int singleNumber(std::vector<int> &nums)
     {
+        std::unordered_map<int, int> map;
+
+        for (auto &element : nums)
+        {
+            map[element]++;
+        }
+/*
+        for (auto &count : nums)
+        {
+            if (map[count] == 1)
+            {
+                return count;
+            }
+        }
+*/
+        for (const auto &pair : map)
+        {
+            if (pair.second == 1)
+            {
+                return pair.first;
+            }
+        }
+
+        return -1;
+
+        /*
         int count = 0;
         int value = -2;
 
@@ -28,6 +53,7 @@ public:
         });
 
         return value;
+        */
         /*
 
         for (int i = 0; i < vec.size(); i++)
@@ -49,7 +75,7 @@ public:
             {
                 return nums[i];
             }
-            
+
         }
         */
     }
@@ -57,7 +83,7 @@ public:
 
 int main()
 {
-    std::vector<int> numbers{2, 2, 1};
+    std::vector<int> numbers{4,1,2,1,2};
     Solution SolutionObj;
 
     std::cout << SolutionObj.singleNumber(numbers);
