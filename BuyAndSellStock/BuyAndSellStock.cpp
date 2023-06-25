@@ -8,7 +8,6 @@ public:
     int maxProfit(std::vector<int> &prices)
     {
         int buy = prices[0];
-        //int sell = 0;
         int profit = 0;
 
         std::for_each(prices.begin(), prices.end(), [&] (int price) {
