@@ -34,8 +34,7 @@ public:
                     }
                     
                 }
-                
-
+            
                 //std::string number1_str = std::to_string(nums[i]);
                 //int number1 = number1_str[0] - '0';
 
