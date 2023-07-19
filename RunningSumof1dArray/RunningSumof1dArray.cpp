@@ -7,15 +7,15 @@ public:
     std::vector<int> runningSum(std::vector<int> &nums)
     {
 
-        std::vector<int> result;
-        result.push_back(nums[0]);
+        int sum = 0;
 
-        for (int i = 1; i < nums.size(); i++)
+        for (int i = 0; i < nums.size(); i++)
         {
-            result.push_back(nums[i] + result[result.size() - 1]);
+            sum += nums[i];
+            nums[i] = sum;
         }
 
-        return result;
+        return nums;
     }
 };
 
