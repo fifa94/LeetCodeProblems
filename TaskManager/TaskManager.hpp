@@ -1,42 +1,37 @@
 #pragma once
 
-#include <string>
+#include <vector>
 #include <vector>
 #include <functional>
+#include <iostream>
 
-class Task
-{
-private:
-    std::string _task;
-    std::string _taskDescription;
-public:
-    Task(/* args */);
-    ~Task();
-};
-
-Task::Task(/* args */)
-{
-}
-
-Task::~Task()
-{
-}
+#include "TaskManagerTask.hpp"
 
 class TaskManager
 {
 private:
-    /* data */
+    std::vector<Task> TaskStorage;
 public:
-    TaskManager(/* args */);
+    TaskManager();
     ~TaskManager();
+    bool addNewTask(std::string task, std::string taskDescription);
 };
 
-TaskManager::TaskManager(/* args */)
+TaskManager::TaskManager()
 {
+    std::cout << "Vita te tvuj spravde ukolu" << std::endl;
 }
 
 TaskManager::~TaskManager()
 {
+    std::cout << "Task manager se vypina" << std::endl;
 }
 
-
+bool TaskManager::addNewTask(std::string task, std::string taskDescription){
+    
+    if ((task.empty()) || taskDescription.empty())
+    {
+        return 0;
+    }
+    return 0;
+}
