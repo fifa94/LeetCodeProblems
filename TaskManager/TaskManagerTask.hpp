@@ -10,9 +10,10 @@ private:
 public:
     Task(std::string task, std::string taskDescription);
     ~Task();
-    std::string getTask(void);
     bool updateTask(std::string newTask);
     bool updateTaskDescription(std::string newTaskDescription);
+    std::string getTask (void){return this->task;}
+    std::string getTaskDescription (void){return this->taskDescription;}
 };
 
 Task::Task(std::string task, std::string taskDescription): task{task}, taskDescription{taskDescription}
@@ -21,11 +22,6 @@ Task::Task(std::string task, std::string taskDescription): task{task}, taskDescr
 
 Task::~Task()
 {
-}
-
-std::string Task::getTask(void)
-{
-    return this->task;
 }
 
 bool:: Task::updateTask(std::string newTask){
