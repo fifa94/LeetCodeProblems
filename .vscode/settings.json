@@ -46,6 +46,7 @@
         "cinttypes": "cpp",
         "typeinfo": "cpp",
         "optional": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "pair": "cpp"
     }
 }
