@@ -13,12 +13,12 @@ public:
     {
         if (left > right)
         {
-            std::cout << "Not found" << std::endl;
+            //std::cout << "Not found" << std::endl;
             return -1;
         }
         else if (nums[(left + right) / 2] == target)
         {
-            std::cout << "Found at index: " << (left + right) / 2 << std::endl;
+            //std::cout << "Found at index: " << (left + right) / 2 << std::endl;
             return (left + right) / 2;
         }
         else if (nums[(left + right) / 2] < target)
