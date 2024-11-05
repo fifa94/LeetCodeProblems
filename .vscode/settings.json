@@ -92,5 +92,6 @@
         "typeindex": "cpp",
         "valarray": "cpp",
         "variant": "cpp"
-    }
+    },
+    "dotnet.defaultSolution": "RotateStringProj.sln"
 }

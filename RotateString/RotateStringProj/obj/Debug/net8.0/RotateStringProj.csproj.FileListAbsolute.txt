@@ -1,0 +1,15 @@
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.AssemblyInfoInputs.cache
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.AssemblyInfo.cs
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.csproj.CoreCompileInputs.cache
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.sourcelink.json
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/bin/Debug/net8.0/RotateStringProj
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/bin/Debug/net8.0/RotateStringProj.deps.json
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/bin/Debug/net8.0/RotateStringProj.runtimeconfig.json
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/bin/Debug/net8.0/RotateStringProj.dll
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/bin/Debug/net8.0/RotateStringProj.pdb
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.dll
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/refint/RotateStringProj.dll
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.pdb
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/RotateStringProj.genruntimeconfig.cache
+/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/Debug/net8.0/ref/RotateStringProj.dll
