@@ -1,0 +1,15 @@
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/bin/Debug/net8.0/AddingSpaces
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/bin/Debug/net8.0/AddingSpaces.deps.json
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/bin/Debug/net8.0/AddingSpaces.runtimeconfig.json
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/bin/Debug/net8.0/AddingSpaces.dll
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/bin/Debug/net8.0/AddingSpaces.pdb
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.AssemblyInfoInputs.cache
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.AssemblyInfo.cs
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.csproj.CoreCompileInputs.cache
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.sourcelink.json
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.dll
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/refint/AddingSpaces.dll
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.pdb
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/AddingSpaces.genruntimeconfig.cache
+/home/filip/Documents/LeetCodeProblems/AddingSpacestoaString/AddingSpaces/obj/Debug/net8.0/ref/AddingSpaces.dll

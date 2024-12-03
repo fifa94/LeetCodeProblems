@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScoreOfaStringLeet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76bb0e1ab8c2f0423638a0d624d15a69c34c6fa7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1610b05e08d17ef1910475534558d5103465959")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScoreOfaStringLeet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScoreOfaStringLeet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
