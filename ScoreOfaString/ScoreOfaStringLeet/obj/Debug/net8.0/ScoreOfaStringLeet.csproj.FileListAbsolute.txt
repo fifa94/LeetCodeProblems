@@ -1,0 +1,15 @@
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/bin/Debug/net8.0/ScoreOfaStringLeet
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/bin/Debug/net8.0/ScoreOfaStringLeet.deps.json
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/bin/Debug/net8.0/ScoreOfaStringLeet.runtimeconfig.json
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/bin/Debug/net8.0/ScoreOfaStringLeet.dll
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/bin/Debug/net8.0/ScoreOfaStringLeet.pdb
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.AssemblyInfoInputs.cache
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.AssemblyInfo.cs
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.csproj.CoreCompileInputs.cache
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.sourcelink.json
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.dll
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/refint/ScoreOfaStringLeet.dll
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.pdb
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ScoreOfaStringLeet.genruntimeconfig.cache
+/home/filip/Documents/LeetCodeProblems/ScoreOfaString/ScoreOfaStringLeet/obj/Debug/net8.0/ref/ScoreOfaStringLeet.dll
