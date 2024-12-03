@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScoreOfaString", "ScoreOfaS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreOfaStringLeet", "ScoreOfaString\ScoreOfaStringLeet\ScoreOfaStringLeet.csproj", "{A2A39D1C-F13F-4468-BADB-87F2A96BFB4C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AddingSpacestoaString", "AddingSpacestoaString", "{F1EDF476-7324-4EBD-9AEA-E3B2EFBCA85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingSpaces", "AddingSpacestoaString\AddingSpaces\AddingSpaces.csproj", "{17780136-854D-42DF-B064-889346883590}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,9 +32,14 @@ Global
 		{A2A39D1C-F13F-4468-BADB-87F2A96BFB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A39D1C-F13F-4468-BADB-87F2A96BFB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A39D1C-F13F-4468-BADB-87F2A96BFB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17780136-854D-42DF-B064-889346883590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17780136-854D-42DF-B064-889346883590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17780136-854D-42DF-B064-889346883590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17780136-854D-42DF-B064-889346883590}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CE83B197-C825-4498-8F16-91C3E350C830} = {AC7F590A-025C-4D3C-86F1-696E5CE77DA0}
 		{A2A39D1C-F13F-4468-BADB-87F2A96BFB4C} = {1E5AADB8-120F-45E5-AE93-BA86DC089354}
+		{17780136-854D-42DF-B064-889346883590} = {F1EDF476-7324-4EBD-9AEA-E3B2EFBCA85A}
 	EndGlobalSection
 EndGlobal
