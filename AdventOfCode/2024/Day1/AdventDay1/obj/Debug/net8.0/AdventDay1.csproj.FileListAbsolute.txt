@@ -1,0 +1,15 @@
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.AssemblyInfoInputs.cache
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.AssemblyInfo.cs
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.csproj.CoreCompileInputs.cache
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.sourcelink.json
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/bin/Debug/net8.0/AdventDay1
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/bin/Debug/net8.0/AdventDay1.deps.json
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/bin/Debug/net8.0/AdventDay1.runtimeconfig.json
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/bin/Debug/net8.0/AdventDay1.dll
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/bin/Debug/net8.0/AdventDay1.pdb
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.dll
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/refint/AdventDay1.dll
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.pdb
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/AdventDay1.genruntimeconfig.cache
+/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/Debug/net8.0/ref/AdventDay1.dll
