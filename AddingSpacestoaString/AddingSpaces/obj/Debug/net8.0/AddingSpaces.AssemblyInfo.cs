@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddingSpaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf52ea1b8d5d559ca6428c4b0d7049c4a1fa7413")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9dd4cb28481d3b53bc930e4483d8f190920d8c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddingSpaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddingSpaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

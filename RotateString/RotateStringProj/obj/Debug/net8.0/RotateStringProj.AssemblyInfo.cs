@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RotateStringProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1610b05e08d17ef1910475534558d5103465959")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9dd4cb28481d3b53bc930e4483d8f190920d8c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RotateStringProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RotateStringProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

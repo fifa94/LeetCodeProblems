@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/RotateStringProj.csproj": {}
+    "/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/AdventDay1.csproj": {}
   },
   "projects": {
-    "/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/RotateStringProj.csproj": {
+    "/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/AdventDay1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/RotateStringProj.csproj",
-        "projectName": "RotateStringProj",
-        "projectPath": "/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/RotateStringProj.csproj",
+        "projectUniqueName": "/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/AdventDay1.csproj",
+        "projectName": "AdventDay1",
+        "projectPath": "/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/AdventDay1.csproj",
         "packagesPath": "/home/filip/.nuget/packages/",
-        "outputPath": "/home/filip/Documents/LeetCodeProblems/RotateString/RotateStringProj/obj/",
+        "outputPath": "/home/filip/Documents/LeetCodeProblems/AdventOfCode/2024/Day1/AdventDay1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/filip/.nuget/NuGet/NuGet.Config"
