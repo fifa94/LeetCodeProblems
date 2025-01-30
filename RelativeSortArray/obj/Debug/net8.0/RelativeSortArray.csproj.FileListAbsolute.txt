@@ -1,0 +1,15 @@
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/bin/Debug/net8.0/RelativeSortArray
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/bin/Debug/net8.0/RelativeSortArray.deps.json
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/bin/Debug/net8.0/RelativeSortArray.runtimeconfig.json
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/bin/Debug/net8.0/RelativeSortArray.dll
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/bin/Debug/net8.0/RelativeSortArray.pdb
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.AssemblyInfoInputs.cache
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.AssemblyInfo.cs
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.csproj.CoreCompileInputs.cache
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.sourcelink.json
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.dll
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/refint/RelativeSortArray.dll
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.pdb
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/RelativeSortArray.genruntimeconfig.cache
+/home/filip/Documents/LeetCodeProblems/RelativeSortArray/obj/Debug/net8.0/ref/RelativeSortArray.dll
