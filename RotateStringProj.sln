@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code", "Code", "{56CF6F22-5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumScoreAfterSplittingaStringPrj", "MaximumScoreAfterSplittingaString\Code\MaximumScoreAfterSplittingaStringPrj\MaximumScoreAfterSplittingaStringPrj.csproj", "{6065A2F6-5D16-408A-9688-406ED6425D68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativeSortArray", "RelativeSortArray\RelativeSortArray.csproj", "{49490632-7BDD-44BE-8D44-030CFD167302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{6065A2F6-5D16-408A-9688-406ED6425D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6065A2F6-5D16-408A-9688-406ED6425D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6065A2F6-5D16-408A-9688-406ED6425D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49490632-7BDD-44BE-8D44-030CFD167302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49490632-7BDD-44BE-8D44-030CFD167302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49490632-7BDD-44BE-8D44-030CFD167302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49490632-7BDD-44BE-8D44-030CFD167302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CE83B197-C825-4498-8F16-91C3E350C830} = {AC7F590A-025C-4D3C-86F1-696E5CE77DA0}
